@@ -2,44 +2,7 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		/*int a;
-		Scanner input=new Scanner(System.in);
-		a=input.nextInt();
-		System.out.println(a);*/
 		
-		
-		// Önce Deðiþkenleri Oluþturalým
-		/*int mat, fizik, kimya, turkce, tarih, muzik;
-		
-		//Scanner Sýnýfýmýzý Tanýmlayalým
-		
-		Scanner inp= new Scanner(System.in);
-		
-		// Kullanýcýdan notlarý iste
-		
-		System.out.println("Matematik Notunu Giriniz:");
-		mat=inp.nextInt();
-		
-		System.out.println("Fizik Notunu Giriniz:");
-		fizik =inp.nextInt();
-		
-		System.out.println("Kimya Notunu Giriniz:");
-		kimya =inp.nextInt();
-		
-		System.out.println("Türkçe Notunu Giriniz:");
-		turkce =inp.nextInt();
-		
-		System.out.println("Tarih Notunu Giriniz:");
-		tarih =inp.nextInt();
-		
-		System.out.println("Müzik Notunu Giriniz:");
-		muzik =inp.nextInt();
-		
-		int toplam=(mat + fizik + kimya + turkce + tarih + muzik);
-		double sonuc= toplam/6.0;
-		System.out.println("Not Ortalamasý:"+sonuc);
-		*/
 		//Önce deðiþkenimi tanýmlýyorum.
 		
 		double ortalama;
